@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/gtk-2.0",
+                "/usr/include/gtk-2.0/gtk",
+                "/usr/lib/x86_64-linux-gnu/glib-2.0/include/",
+                "/usr/include/glib-2.0",
+                "/usr/include/cairo",
+                "/usr/include/pango-1.0",
+                "/usr/include/harfbuzz"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "gtk.h": "c",
+        "gtkaboutdialog.h": "c",
+        "gtkdialog.h": "c",
+        "gtkwindow.h": "c",
+        "gtkaccelgroup.h": "c",
+        "gtkbin.h": "c",
+        "gtkcontainer.h": "c",
+        "gtkadjustment.h": "c",
+        "gtkwidget.h": "c",
+        "gtkobject.h": "c",
+        "gdk.h": "c",
+        "gdkcolor.h": "c",
+        "gdkcairo.h": "c",
+        "pangocairo.h": "c",
+        "gdkpixbuf.h": "c",
+        "gdktypes.h": "c"
+    }
+}
